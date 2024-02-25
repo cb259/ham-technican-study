@@ -2,15 +2,21 @@
 <p align="center"><i>Notes for the Ham Technican exam between July 1, 2022 and Jume 30, 2026</i></p>
 
 # Visual References
+<details>
+    <summary><b>US Amateur Radio Bands</b></summary>
+    <a href="./images/US_Amateur_Radio_Bands.pdf"><img src="./images/US_Amateur_Radio_Bands.jpg" /></a>
+</details>
 
-## US Amateur Radio Bands
-[![US Amateur Radio Bands](./images/US_Amateur_Radio_Bands.jpg)](/images/US_Amateur_Radio_Bands.pdf)
+<details>
+    <summary><b>Radio Spectrum</b></summary>
+    <img src="./images/radio-spectrum-frequencies.png" />
+</details>
 
-## Radio Spectrum
-![Radio Spectrum](./images/radio-spectrum-frequencies.png)
-
-## Schematic Symbols Used in Circit Diagrams
-[![Schematic Symbols Used in Circuit Diagrams](./images/Schematic_Symbols_Used_in_Circuit_Diagrams.png)](./images/Schematic_Symbols_Used_in_Circuit_Diagrams.pdf)
+<details>
+    <summary><b>Schematic Symbols Used in Circuit Diagrams</b></summary>
+    <a href="./images/Schematic_Symbols_Used_in_Circuit_Diagrams.pdf"><img src="./images/Schematic_Symbols_Used_in_Circuit_Diagrams.png" /></a>
+</details>
+<br />
 
 # Terms
 - Gain - Concentrating an antenna's radiated signals in a specific direction. This aids communication in that direction by increasing transmitted and received signals.
@@ -79,4 +85,6 @@ Note: The estimates of this formula are often too short for HF.
 - Low SWR indicated efficient transfer of power from feed line because less power is reflected by the antenna. This translates into less loss from reflected power traveling back and fourth between the antenna and transmitter in the feed line.
 - Rosin-core solder should be used for radio and electronics applications. Acid-core solder should not be used.
 - Wattmeters can be used in-line to measure feed line power in both directions. Tables and formulas can be used to convert power readings to SWR.
+- Amplitude modulation is composed of a carrier signal (constant), and upper side band (USB) and a lower side band (LSB) frequency which are higher and lower in frequency than the carrier respectively.
+- Single-Sideband - Signals where one of the sidebands is suppressed. IN VHF and UHF the USB is used and with MF and HF bands the USB and LSB are used.
 - 
